@@ -1,4 +1,3 @@
-# audi-dynamic-turnsiganls
 # AUDI Sequential Turn Signals
 
 This project replicates the sequential turn signal effect found in Audi vehicles using an Arduino or ESP8266 board and a series of LEDs.
