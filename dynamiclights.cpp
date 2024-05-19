@@ -7,7 +7,7 @@
 int ledPins[NUM_LEDS] = {16, 5, 4, 0, 2};  // D0, D1, D2, D3, D4
 
 // Define the delay between each LED turning on/off
-int delayTime = 100; // in milliseconds
+int delayTime = 175; // in milliseconds
 
 void setup() {
   // Initialize serial communication for debugging
